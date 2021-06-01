@@ -4,3 +4,5 @@
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
 
 此仓库为涂鸦炫彩灯带项目的硬件工程
+
+![PCB](https://github.com/KuDianWanJia/TuYa-Coloured-Light/PCB图片.PNG) 
