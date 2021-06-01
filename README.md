@@ -5,4 +5,4 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 此仓库为涂鸦炫彩灯带项目的硬件工程
 
-![PCB](https://github.com/KuDianWanJia/TuYa-Coloured-Light/PCB图片.PNG) 
+![PCB](https://github.com/KuDianWanJia/TuYa-Coloured-Light/PCB.PNG) 
